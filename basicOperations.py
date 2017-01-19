@@ -1,5 +1,11 @@
-def addition:
+def add(x, y):
     return
 
-def substracion:
+def substract:
+    return
+
+def multiply:
+    return
+
+def divide:
     return
