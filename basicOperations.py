@@ -1,8 +1,8 @@
 def add(x, y):
-    return
+    return x + y
 
 def substract(x, y):
-    return
+    return x - z
 
 def multiply(x, y):
     return
